@@ -1,0 +1,18 @@
+/*Solution 1 - Target elements*/
+
+/* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/*Solution 2 - Target (nested) classes*/
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
